@@ -2,13 +2,11 @@
 
 ### Full Stack Web Developer | React Developer | Computer Science Graduate
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 I'm a passionate Full Stack Web Developer from Pune, India, with hands-on experience in building responsive web applications, modern user interfaces, and dynamic solutions using React and JavaScript.
 
 I enjoy transforming ideas into real-world applications while focusing on performance, scalability, and user experience.
 
-* 🌱 Currently learning: Advanced Full Stack Development & .NET
+* 🌱 Currently learning: Advanced Full Stack Development
 * 💻 Worked as Full Stack Web Developer Intern at GBIS
 * 🎯 Interested in Web Development, UI/UX, SaaS Products & Digital Solutions
 * 📚 Computer Science Graduate from Savitribai Phule Pune University
