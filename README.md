@@ -38,15 +38,21 @@ I enjoy learning new technologies and building projects that solve real-world pr
 
 ### Frontend
 
-HTML5 • CSS3 • JavaScript • ReactJS • Bootstrap • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
 ### Backend
 
-Node.js • Java
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java" />
+</p>
 
 ### Database
 
-MySQL • SQL
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Programming Languages
 
@@ -54,11 +60,17 @@ Java • JavaScript
 
 ### Tools & Platforms
 
-Git • GitHub • VS Code • Postman • Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva" />
+</p>
 
 ### Additional Skills
 
-UI/UX Design • Responsive Design • SEO • Digital Marketing • Team Collaboration
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blue?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-Optimization-orange?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital-Marketing-red?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Team-Collaboration-purple?style=for-the-badge)
 
 ---
 
