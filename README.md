@@ -47,6 +47,9 @@ I enjoy learning new technologies and building projects that solve real-world pr
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,java" />
 </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,java,python,mysql,git,github,vscode,postman,figma,canva&perline=5" />
+</p>
 
 ### Database
 
